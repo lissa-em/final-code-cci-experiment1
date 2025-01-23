@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../Test 2  - basic structure"
+		},
+		{
+			"name": "potentiometer",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Test 2  - basic structure",
+		"liveServer.settings.port": 5501
+	}
+}
